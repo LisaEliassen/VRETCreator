@@ -7,4 +7,4 @@
 3. Go inside the unzipped folder and run VRETCreator.exe to start the application. 
 
 # DEMO video
-A demo video of the application has been made available and can be found on...
+A demo video of the application has been made available and can be found here: https://youtu.be/77QnVDMQyOo
