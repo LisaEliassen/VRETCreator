@@ -4,7 +4,7 @@ It is possible to add 3D models that can represent triggers of anxiety-inducing 
 The patient will experience the scene created in VR through a VR headset.
 
 # How to run
-1. Click the green code button and choose download ZIP folder at the bottom.
+1. Click the green "Code" button in the top right corner, and choose download ZIP folder at the bottom.
 2. Unzip the folder.
 3. Go inside the unzipped folder and run VRETCreator.exe to start the application. 
 
